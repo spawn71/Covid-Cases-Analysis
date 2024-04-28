@@ -9,30 +9,30 @@ Develop a predictive model to forecast the spread and impact of COVID-19 in diff
 
 ## Screenshot
 
-![dashboard preview]()
-
-## Installation
-
-<!-- ## Usage
-
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![schema](MusicDatabaseSchema.png)
-    ``` -->
+![dashboard preview](https://github.com/spawn71/Covid-Cases-Analysis/blob/main/ss-coivd.png)
+![dashboard preview](https://github.com/spawn71/Covid-Cases-Analysis/blob/main/ss-coivd2.png)
+![dashboard preview](https://github.com/spawn71/Covid-Cases-Analysis/blob/main/ss-coivd3.png)
 
 ## Tools
 
 * Python - Pandas, Matplotlib, Seaborn
 
-## Project Learnings
+Key Components:
 
-* Created an interactive dashboard to track and analyze Covid Cases data.
-* Used complex parameters to drill down in worksheet and customization using filters and slicers.
-* Created connections, joined new tables, did calculations to manipulate data, and enabled user-driven parameters for visualization.
-* Used different types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers, etc)
+### Data Collection: 
+    - Collect comprehensive datasets containing information on COVID-19 cases, deaths, testing, hospitalizations, demographics, socioeconomic factors, government interventions, and other       relevant variables.
+### Data Preprocessing: 
+    - Clean, preprocess, and prepare the collected data for analysis and modeling. This includes handling missing values, encoding categorical variables, scaling numeric features, and performing feature engineering.
+### Exploratory Data Analysis (EDA): 
+    - Conduct exploratory data analysis to understand the distribution, trends, correlations, and patterns within the data. Visualize key insights using charts, graphs, and summary statistics.
+### Model Development: 
+    - Build machine learning models to predict various aspects of COVID-19 spread and impact, such as the number of cases, deaths, hospitalizations, and recovery rates. Consider different algorithms, including regression, classification, time series forecasting, and ensemble methods.
+### Model Evaluation: 
+    - Evaluate the performance of the developed models using appropriate metrics and techniques. Perform cross-validation, hyperparameter tuning, and sensitivity analysis to ensure robustness and generalizability.
+### Model Deployment: 
+    - Deploy the trained models into production environments, allowing stakeholders to access and utilize the predictions in real-time. Implement monitoring and feedback mechanisms to continuously improve model performance and accuracy.
+### Policy Recommendations: 
+    - Provide actionable insights and policy recommendations based on the model predictions. Inform public health strategies, resource allocation, intervention planning, and risk mitigation efforts to minimize the impact of COVID-19.
 
 ## Conclusion
 
