@@ -32,7 +32,7 @@ Key Components:
 ### Model Deployment: 
     - Deploy the trained models into production environments, allowing stakeholders to access and utilize the predictions in real-time. Implement monitoring and feedback mechanisms to continuously improve model performance and accuracy.
 ### Policy Recommendations: 
- ~- Provide actionable insights and policy recommendations based on the model predictions. Inform public health strategies, resource allocation, intervention planning, and risk mitigation efforts to minimize the impact of COVID-19.
+    - Provide actionable insights and policy recommendations based on the model predictions. Inform public health strategies, resource allocation, intervention planning, and risk mitigation efforts to minimize the impact of COVID-19.
 
 ## Expected Outcome:
 The project aims to deliver accurate and reliable predictive models that can assist policymakers, healthcare professionals, and public health authorities in making informed decisions to mitigate the spread and impact of COVID-19. By leveraging data-driven insights and advanced analytics techniques, the project contributes to efforts to combat the pandemic and safeguard public health and well-being.
